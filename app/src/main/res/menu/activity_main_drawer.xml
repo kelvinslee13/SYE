@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/room_status"
+            android:icon="@drawable/desk"
+            android:title="Room Status" />
+        <item
+            android:id="@+id/my_location"
+            android:icon="@drawable/location"
+            android:title="My Location" />
+
+    </group>
+
+
+</menu>
